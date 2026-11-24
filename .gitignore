@@ -1,3 +1,5 @@
 *
 !.gitignore
 !Portfolio.html
+!portofolio/
+!portofolio/**
